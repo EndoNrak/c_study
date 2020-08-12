@@ -1,3 +1,3 @@
-test: test.c
-	gcc -o test test.c
+struct\test: struct\test.c
+	gcc -o test struct\test.c
 	.\test
